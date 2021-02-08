@@ -1,4 +1,5 @@
 @echo off
+mkdir tools
 git clone https://github.com/sherlock-project/sherlock.git
 git clone https://github.com/arismelachroinos/lscript.git
 git clone https://github.com/epsylon/ufonet.git
